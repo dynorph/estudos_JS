@@ -1,1 +1,1 @@
-# estudos_JS
+Exercícios e projetos realizados realizados durante meus estudos da linguagem JavaScript.
